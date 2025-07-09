@@ -1,0 +1,20 @@
+{
+  "name": "dbos-node-starter",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "tsc",
+    "dev": "nodemon",
+    "start": "node dist/main.js"
+  },
+  "devDependencies": {
+    "@dbos-inc/dbos-cloud": "^2.10.24",
+    "@types/morgan": "^1.9.9",
+    "nodemon": "^3.1.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@dbos-inc/dbos-sdk": "^2.10.24",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0"
+  }
+}
