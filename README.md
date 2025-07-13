@@ -3,7 +3,7 @@
 * For more information, see https://docs.dbos.dev/quickstart and https://github.com/dbos-inc/dbos-demo-apps/tree/main/typescript/dbos-node-starter
 
 ## Commands
-* npx dbos postgres start // run only if postgres has not been started. Postgres available at postgres://postgres:dbos@localhost:5432
+* npx dbos postgres start // run only if postgres has not been started.
 * git clone https://github.com/spiritfxxxx/typescript-dbosNodeStarter.git
 * cd typescript-dbosNodeStarter
 * npm install
