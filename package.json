@@ -2,6 +2,7 @@
   "name": "dbos-node-starter",
   "version": "0.0.1",
   "scripts": {
+    "clean": "rm -rf dist node_modules",
     "build": "tsc",
     "dev": "nodemon",
     "start": "node dist/main.js"
