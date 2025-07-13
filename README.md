@@ -5,6 +5,7 @@
 ## Commands
 * git clone https://github.com/spiritfxxxx/typescript-dbosNodeStarter.git
 * cd typescript-dbosNodeStarter
+* npx dbos postgres start // run only if postgres has not been started. Postgres available at postgres://postgres:dbos@localhost:5432
 * npm install
 * npm run build
 * npm run start
